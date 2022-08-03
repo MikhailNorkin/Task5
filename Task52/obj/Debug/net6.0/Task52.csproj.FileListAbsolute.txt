@@ -1,0 +1,15 @@
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\Task52.csproj.AssemblyReference.cache
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\Task52.GeneratedMSBuildEditorConfig.editorconfig
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\Task52.AssemblyInfoInputs.cache
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\Task52.AssemblyInfo.cs
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\Task52.csproj.CoreCompileInputs.cache
+D:\Work\С#\Семинар5\Task5\Task52\bin\Debug\net6.0\Task52.exe
+D:\Work\С#\Семинар5\Task5\Task52\bin\Debug\net6.0\Task52.deps.json
+D:\Work\С#\Семинар5\Task5\Task52\bin\Debug\net6.0\Task52.runtimeconfig.json
+D:\Work\С#\Семинар5\Task5\Task52\bin\Debug\net6.0\Task52.dll
+D:\Work\С#\Семинар5\Task5\Task52\bin\Debug\net6.0\Task52.pdb
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\Task52.dll
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\refint\Task52.dll
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\Task52.pdb
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\Task52.genruntimeconfig.cache
+D:\Work\С#\Семинар5\Task5\Task52\obj\Debug\net6.0\ref\Task52.dll
